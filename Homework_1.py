@@ -2,7 +2,9 @@ import math
 
 # Name:Joshua Seojin Han
 # SBUID: 119535567
-
+##################### SCORE ######################
+####### Very good work Score:  10/10
+#################################################
 # Remove the ellipses (...) when writing your solutions.
 
 # ---------------------------- Exercise I ---------------------------------------
